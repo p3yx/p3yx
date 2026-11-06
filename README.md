@@ -51,14 +51,17 @@
 
 <div align="center">
 
-<img src="https://progress-bar.dev/90/?scale=100&title=Python&title_color=36BCF7&bar_color=FF61F6&track_color=0D1117&suffix=%&width=420&height=28&progress=true&animated=true" alt="Python 90%" /><br/>
-<img src="https://progress-bar.dev/95/?scale=100&title=PHP&title_color=36BCF7&bar_color=FF8A00&track_color=0D1117&suffix=%&width=420&height=28&progress=true&animated=true" alt="PHP 95%" /><br/>
-<img src="https://progress-bar.dev/75/?scale=100&title=Node.js&title_color=36BCF7&bar_color=36BCF7&track_color=0D1117&suffix=%&width=420&height=28&progress=true&animated=true" alt="Node.js 75%" /><br/>
-<img src="https://progress-bar.dev/92/?scale=100&title=Linux&title_color=36BCF7&bar_color=7B72E9&track_color=0D1117&suffix=%&width=420&height=28&progress=true&animated=true" alt="Linux 92%" /><br/>
-<img src="https://progress-bar.dev/85/?scale=100&title=SQL&title_color=36BCF7&bar_color=00c2a8&track_color=0D1117&suffix=%&width=420&height=28&progress=true&animated=true" alt="SQL 85%" /><br/>
-<img src="https://progress-bar.dev/88/?scale=100&title=Networking&title_color=36BCF7&bar_color=D94AF5&track_color=0D1117&suffix=%&width=420&height=28&progress=true&animated=true" alt="Networking 88%" /><br/>
+| 🚀 **Skill** | 🔥 **Level** |
+|:---|:---|
+| 🐍 **Python** | ██████████ `90%` |
+| 🐘 **PHP** | ███████████ `95%` |
+| 🟢 **Node.js** | ███████░░░ `75%` |
+| 🐧 **Linux** | ██████████░ `92%` |
+| 🗄️ **SQL** | █████████░░ `85%` |
+| 🌐 **Networking** | █████████░░ `88%` |
 
 </div>
+
 
 ---
 
