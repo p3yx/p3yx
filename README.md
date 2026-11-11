@@ -20,7 +20,7 @@
 
 Saya **PeyxDev** (GitHub: [p3yx](https://github.com/p3yx)), software engineer dari Indonesia dengan ketertarikan kuat pada pengembangan sistem yang andal, efisien, dan mudah dioperasikan.
 
-Fokus utama saya berada di **backend development**, **automation**, dan **networking/infrastructure** â€” membangun layanan, alat bantu operasional, serta alur kerja yang menghubungkan software dengan kebutuhan nyata. Saya menikmati proses merancang solusi dari masalah konkret, menjaga kode tetap rapi, dan mengutamakan hasil yang bisa dipakai serta diiterasi dengan baik.
+Fokus utama saya berada di **backend development**, **automation**, dan **networking/infrastructure** Ã¢â‚¬â€ membangun layanan, alat bantu operasional, serta alur kerja yang menghubungkan software dengan kebutuhan nyata. Saya menikmati proses merancang solusi dari masalah konkret, menjaga kode tetap rapi, dan mengutamakan hasil yang bisa dipakai serta diiterasi dengan baik.
 
 **Prinsip kerja:** jelas dalam tujuan, sederhana dalam implementasi, dan konsisten dalam kualitas.
 
@@ -76,10 +76,10 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
 <div align="center">
 
 <a href="https://github.com/p3yx">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=p3yx&show_icons=true&hide_border=true&count_private=true&bg_color=0b0f14&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&ring_color=10b981" alt="GitHub stats for p3yx" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=p3yx&show_icons=true&hide_border=true&count_private=true&bg_color=0b0f14&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&ring_color=10b981" alt="GitHub stats for p3yx" />
 </a>
 <a href="https://github.com/p3yx">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p3yx&layout=compact&hide_border=true&bg_color=0b0f14&title_color=10b981&text_color=c9d1d9" alt="Top languages for p3yx" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=p3yx&layout=compact&hide_border=true&bg_color=0b0f14&title_color=10b981&text_color=c9d1d9" alt="Top languages for p3yx" />
 </a>
 
 <br/>
@@ -114,7 +114,7 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
   <tr>
     <td width="100%" valign="top">
       <h3><a href="https://github.com/p3yx/px-store">px-store</a></h3>
-      <p><strong>PX Store</strong> â€” katalog produk affiliate dan otomasi Shopee Affiliate, mencakup alur impor produk, pembuatan link affiliate, laporan, iklan, dan pengelolaan lisensi/sewa.</p>
+      <p><strong>PX Store</strong> Ã¢â‚¬â€ katalog produk affiliate dan otomasi Shopee Affiliate, mencakup alur impor produk, pembuatan link affiliate, laporan, iklan, dan pengelolaan lisensi/sewa.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&logo=python&logoColor=10b981" alt="Python" />
         <img src="https://img.shields.io/badge/Automation-0b0f14?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="Automation" />
