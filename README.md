@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0f766e&height=2&section=header" width="100%" alt="" />
 
 ## About Me
 
@@ -76,10 +76,10 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
 <div align="center">
 
 <a href="https://github.com/p3yx">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=p3yx&show_icons=true&hide_border=true&count_private=true&bg_color=0b0f14&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&ring_color=10b981" alt="GitHub stats for p3yx" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=p3yx&show_icons=true&hide_border=true&count_private=true&bg_color=0b0f14&title_color=10b981&icon_color=22d3ee&text_color=c9d1d9&ring_color=10b981" alt="GitHub stats for p3yx" />
 </a>
 <a href="https://github.com/p3yx">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3yx&layout=compact&hide_border=true&bg_color=0b0f14&title_color=10b981&text_color=c9d1d9" alt="Top languages for p3yx" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p3yx&layout=compact&hide_border=true&bg_color=0b0f14&title_color=10b981&text_color=c9d1d9" alt="Top languages for p3yx" />
 </a>
 
 <br/>
@@ -88,15 +88,23 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
   <img height="170" src="https://streak-stats.demolab.com?user=p3yx&hide_border=true&background=0b0f14&ring=10b981&fire=22d3ee&currStreakLabel=10b981&sideLabels=c9d1d9&currStreakNum=e6fffa&sideNums=e6fffa&dates=8b949e" alt="GitHub streak stats for p3yx" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/p3yx">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p3yx&bg_color=0b0f14&color=c9d1d9&line=10b981&point=22d3ee&area=true&area_color=0f766e&hide_border=true" width="100%" alt="GitHub activity graph for p3yx" />
-</a>
-
 </div>
 
 <sub>Jika kartu statistik tidak termuat, data dapat dilihat langsung di <a href="https://github.com/p3yx">profil GitHub p3yx</a>.</sub>
+
+---
+
+## Contribution Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p3yx/p3yx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p3yx/p3yx/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/p3yx/p3yx/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<sub>Animasi contribution snake dihasilkan oleh GitHub Actions (workflow <code>Generate Snake</code>). Jika belum muncul, jalankan workflow sekali dari tab Actions atau tunggu jadwal otomatis.</sub>
 
 ---
 
