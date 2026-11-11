@@ -10,7 +10,7 @@
 <a href="https://github.com/p3yx"><img src="https://img.shields.io/badge/GitHub-p3yx-0b0f14?style=flat-square&logo=github&logoColor=10b981" alt="GitHub p3yx" /></a>
 <a href="https://t.me/peyxdev"><img src="https://img.shields.io/badge/Telegram-@peyxdev-0b0f14?style=flat-square&logo=telegram&logoColor=22d3ee" alt="Telegram @peyxdev" /></a>
 <a href="mailto:peyxdev@gmail.com"><img src="https://img.shields.io/badge/Email-peyxdev%40gmail.com-0b0f14?style=flat-square&logo=gmail&logoColor=10b981" alt="Email peyxdev@gmail.com" /></a>
-<a href="https://pxstore.web.id"><img src="https://img.shields.io/badge/Web-pxstore.web.id-0b0f14?style=flat-square&logo=cloudflare&logoColor=22d3ee" alt="Website pxstore.web.id" /></a>
+<a href="https://portofolio.pxstore.web.id"><img src="https://img.shields.io/badge/Web-portofolio.pxstore.web.id-0b0f14?style=flat-square&logo=cloudflare&logoColor=22d3ee" alt="Website portofolio.pxstore.web.id" /></a>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 Saya **PeyxDev** (GitHub: [p3yx](https://github.com/p3yx)), software engineer dari Indonesia dengan ketertarikan kuat pada pengembangan sistem yang andal, efisien, dan mudah dioperasikan.
 
-Fokus utama saya berada di **backend development**, **automation**, dan **networking/infrastructure** Ã¢â‚¬â€ membangun layanan, alat bantu operasional, serta alur kerja yang menghubungkan software dengan kebutuhan nyata. Saya menikmati proses merancang solusi dari masalah konkret, menjaga kode tetap rapi, dan mengutamakan hasil yang bisa dipakai serta diiterasi dengan baik.
+Fokus utama saya berada di **backend development**, **automation**, dan **networking/infrastructure** — membangun layanan, alat bantu operasional, serta alur kerja yang menghubungkan software dengan kebutuhan nyata. Saya menikmati proses merancang solusi dari masalah konkret, menjaga kode tetap rapi, dan mengutamakan hasil yang bisa dipakai serta diiterasi dengan baik.
 
 **Prinsip kerja:** jelas dalam tujuan, sederhana dalam implementasi, dan konsisten dalam kualitas.
 
@@ -114,7 +114,7 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
   <tr>
     <td width="100%" valign="top">
       <h3><a href="https://github.com/p3yx/px-store">px-store</a></h3>
-      <p><strong>PX Store</strong> Ã¢â‚¬â€ katalog produk affiliate dan otomasi Shopee Affiliate, mencakup alur impor produk, pembuatan link affiliate, laporan, iklan, dan pengelolaan lisensi/sewa.</p>
+      <p><strong>PX Store</strong> — katalog produk affiliate dan otomasi Shopee Affiliate, mencakup alur impor produk, pembuatan link affiliate, laporan, iklan, dan pengelolaan lisensi/sewa.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&logo=python&logoColor=10b981" alt="Python" />
         <img src="https://img.shields.io/badge/Automation-0b0f14?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="Automation" />
@@ -137,7 +137,7 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
 
 <a href="https://t.me/peyxdev"><img src="https://img.shields.io/badge/Telegram-@peyxdev-0b0f14?style=for-the-badge&logo=telegram&logoColor=22d3ee" alt="Telegram" /></a>
 <a href="mailto:peyxdev@gmail.com"><img src="https://img.shields.io/badge/Email-peyxdev%40gmail.com-0b0f14?style=for-the-badge&logo=gmail&logoColor=10b981" alt="Email" /></a>
-<a href="https://pxstore.web.id"><img src="https://img.shields.io/badge/Website-pxstore.web.id-0b0f14?style=for-the-badge&logo=cloudflare&logoColor=22d3ee" alt="Website" /></a>
+<a href="https://portofolio.pxstore.web.id"><img src="https://img.shields.io/badge/Website-portofolio.pxstore.web.id-0b0f14?style=for-the-badge&logo=cloudflare&logoColor=22d3ee" alt="Website" /></a>
 
 </div>
 
