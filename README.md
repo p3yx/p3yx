@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:0f766e,100:10b981&height=230&section=header&text=PEYXDEV&fontSize=64&fontColor=e6fffa&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences%20%26%20Intelligent%20Solutions&descAlignY=58&descSize=20&descAlign=50" width="100%" alt="PEYXDEV header" />
+<img src="./assets/banner/peyxdev-banner.svg" width="100%" alt="PEYXDEV header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Backend+%E2%80%A2+Automation+%E2%80%A2+Networking;Building+reliable+systems%2C+clean+automation%2C+and+smart+tooling;From+Indonesia+%E2%80%94+focused+on+practical+engineering" alt="Typing animation introducing PeyxDev" />
 
@@ -14,13 +14,13 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0f766e&height=2&section=header" width="100%" alt="" />
+<img src="./assets/animations/divider.svg" width="100%" alt="" />
 
 ## About Me
 
 Saya **PeyxDev** (GitHub: [p3yx](https://github.com/p3yx)), software engineer dari Indonesia dengan ketertarikan kuat pada pengembangan sistem yang andal, efisien, dan mudah dioperasikan.
 
-Fokus utama saya berada di **backend development**, **automation**, dan **networking/infrastructure** — membangun layanan, alat bantu operasional, serta alur kerja yang menghubungkan software dengan kebutuhan nyata. Saya menikmati proses merancang solusi dari masalah konkret, menjaga kode tetap rapi, dan mengutamakan hasil yang bisa dipakai serta diiterasi dengan baik.
+Fokus utama saya berada di **backend development**, **automation**, dan **networking/infrastructure** â€” membangun layanan, alat bantu operasional, serta alur kerja yang menghubungkan software dengan kebutuhan nyata. Saya menikmati proses merancang solusi dari masalah konkret, menjaga kode tetap rapi, dan mengutamakan hasil yang bisa dipakai serta diiterasi dengan baik.
 
 **Prinsip kerja:** jelas dalam tujuan, sederhana dalam implementasi, dan konsisten dalam kualitas.
 
@@ -114,7 +114,7 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
   <tr>
     <td width="100%" valign="top">
       <h3><a href="https://github.com/p3yx/px-store">px-store</a></h3>
-      <p><strong>PX Store</strong> — katalog produk affiliate dan otomasi Shopee Affiliate, mencakup alur impor produk, pembuatan link affiliate, laporan, iklan, dan pengelolaan lisensi/sewa.</p>
+      <p><strong>PX Store</strong> â€” katalog produk affiliate dan otomasi Shopee Affiliate, mencakup alur impor produk, pembuatan link affiliate, laporan, iklan, dan pengelolaan lisensi/sewa.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&logo=python&logoColor=10b981" alt="Python" />
         <img src="https://img.shields.io/badge/Automation-0b0f14?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="Automation" />
@@ -144,5 +144,5 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0f766e,100:0b0f14&height=110&section=footer" width="100%" alt="Footer wave" />
+  <img src="./assets/animations/footer-wave.svg" width="100%" alt="Footer wave" />
 </div>

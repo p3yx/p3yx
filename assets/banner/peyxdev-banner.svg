@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">PEYXDEV</title>
+  <desc id="desc">Building Digital Experiences &amp; Intelligent Solutions</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="50%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <path d="M0,190 C220,140 360,240 600,200 C840,160 980,230 1200,180 L1200,260 L0,260 Z" fill="url(#wave)"/>
+  <path d="M0,210 C260,170 420,250 640,220 C860,190 1000,245 1200,205 L1200,260 L0,260 Z" fill="#0b0f14" fill-opacity="0.28"/>
+  <text x="600" y="108" text-anchor="middle" font-family="'JetBrains Mono','Segoe UI',Arial,sans-serif" font-size="72" font-weight="700" fill="#e6fffa" letter-spacing="4">PEYXDEV</text>
+  <text x="600" y="152" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="28" font-weight="500" fill="#ccfbf1">Building Digital Experiences &amp; Intelligent Solutions</text>
+  <text x="600" y="182" text-anchor="middle" font-family="'JetBrains Mono','Segoe UI',Arial,sans-serif" font-size="18" fill="#99f6e4">Software Engineer • Backend • Automation • Networking</text>
+</svg>
