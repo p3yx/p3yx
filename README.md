@@ -104,8 +104,6 @@ Fokus utama saya berada di **backend development**, **automation**, dan **networ
   </picture>
 </div>
 
-<sub>Animasi contribution snake dihasilkan oleh GitHub Actions (workflow <code>Generate Snake</code>). Jika belum muncul, jalankan workflow sekali dari tab Actions atau tunggu jadwal otomatis.</sub>
-
 ---
 
 ## Featured Projects
